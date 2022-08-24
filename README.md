@@ -2,7 +2,7 @@
 
 - 💼 Atualmente trabalho com Direito mas em breve pretendo migrar de área.
 - 📖 Estou aprendendo HTML, CSS, JS e JAVA.
-- 😄 Pronouns: Ele/Dele
+- 😄 Pronome: Ele/Dele
 
   ##
 
