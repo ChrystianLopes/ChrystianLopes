@@ -1,6 +1,6 @@
 ### Olá!! Eu sou o Chrystian👋
 
-- 💼 Atualmente trabalho com Direito mas em breve pretendo migrar de área.
+- 💼 Buscando minha primeira oportunidade em Desenvolvimento.
 - 📖 Estou aprendendo HTML, CSS, JS e JAVA.
 - 😄 Pronomes: Ele/Dele
 
