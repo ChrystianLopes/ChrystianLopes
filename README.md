@@ -1,7 +1,7 @@
 ### Olá!! Eu sou o Chrystian👋
 
 - 💼 Buscando minha primeira oportunidade em Desenvolvimento.
-- 📖 Estou aprendendo HTML, CSS, JS e JAVA.
+- 📖 Estou aprendendo HTML, CSS, JS e JAVA, SQL e PHP.
 - 😄 Pronomes: Ele/Dele
 
   ##
@@ -17,6 +17,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg"/>
+  <img align="center" alt="JAVA" height="30" width="40" src="https://icons8.com/icon/fAMVO_fuoOuC/php-logo"/>
   
   ##
  
