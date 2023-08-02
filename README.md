@@ -1,6 +1,6 @@
 ### Olá!! Eu sou o Chrystian👋
 
-- 💼 Dev. RPA em Python.
+- 💼 Dev. Jr. de RPA em Python.
 - 📖 Estudante de Analise e Desenvolvimento de Sistemas.
 - 👨‍🎓 Graduado em Direito.
 
