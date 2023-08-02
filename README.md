@@ -1,8 +1,8 @@
 ### Olá!! Eu sou o Chrystian👋
 
-- 💼 Buscando minha primeira oportunidade em Desenvolvimento.
-- 📖 Estou aprendendo HTML, CSS, JS e JAVA, SQL e PHP.
-- 😄 Pronomes: Ele/Dele
+- 💼 Dev. RPA em Python.
+- 📖 Estudante de Analise e Desenvolvimento de Sistemas.
+- 👨‍🎓 Graduado em Direito.
 
   ##
 
