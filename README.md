@@ -1,7 +1,7 @@
 ### Olá!! Eu sou o Chrystian👋
 
 - 💼 RPA Dev. Jr.
-- 📖 Estudante de Analise e Desenvolvimento de Sistemas.
+- 📖 Graduando em Analise e Desenvolvimento de Sistemas.
 - 👨‍🎓 Graduado em Direito.
 
   ##
