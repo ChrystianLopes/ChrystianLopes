@@ -1,6 +1,6 @@
 ### Olá!! Eu sou o Chrystian👋
 
-- 💼 RPA Dev. Jr.
+- 💼 Fullstack Developer
 - 📖 Graduando em Analise e Desenvolvimento de Sistemas.
 - 👨‍🎓 Graduado em Direito.
 
