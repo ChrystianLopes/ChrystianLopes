@@ -1,7 +1,7 @@
 ### Olá!! Eu sou o Chrystian👋
 
 - 💼 Fullstack Developer
-- 📖 Graduando em Analise e Desenvolvimento de Sistemas
+- 📖 Graduado em Analise e Desenvolvimento de Sistemas
 - 👨‍🎓 Graduado em Direito
 
   ##
